@@ -1,7 +1,7 @@
-# Build a SaaS App with Realtime cursors, Nextjs 13, Stripe, Drizzle ORM, Tailwind, Supabase, Sockets
+# Build a SaaS App with Realtime cursors, Nextjs 13, Stripe, Drizzle ORM, Tailwind, Supabase.
 
 ### Features in this application.
-
+- Inbuilt AI Bot for Support and Summarisation
 - 🤯 Real-time cursors
 - 📝 Real-time text selection
 - ⏱️ Real-time database and collaboration
@@ -20,8 +20,8 @@
 - 📚 Update profile settings
 - 📍 Manage payments in a portal
 - 🔐 Custom Authentication
-- ✳️ Websockets
 - 📣 Optimistic UI
 - 📱 Responsive design
+  
 
 
